@@ -1,8 +1,6 @@
 ## About ME!
 
-Lifelong Learner, specialized in MacOS and Windows including Application Development and Mobile Device Management.
-
-Software Developer primarily focussed on MacOS Systems Security and Automation. 
+Software Developer primarily focussed on Unix Systems Security and Automation. 
 Experience in Education, Finance, and other regulated sectors.
 
 Currently attending Ross School of Business in Detroit, MI.
