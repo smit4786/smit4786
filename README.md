@@ -1,7 +1,7 @@
 ## About ME!
 
-Software Developer primarily focussed on Unix Systems Security and Automation. 
-Experience in Education, Finance, and other regulated sectors.
+Software Developer specialized in branchless bash and Python programming. 
+Experienced in HIPAA, PCI,SOX,GDPR,NIST,CIS, and other regulated sectors.
 
 <!---
 smit4786/smit4786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
