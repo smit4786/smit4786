@@ -9,7 +9,7 @@ Specialized in branchless Bash and Python programming, with deep experience in r
 - **Community Impact:** Building accessible STEM programs for underrepresented students
 - **Collaboration:** Cross-functional team coordination, open-source contributions
 
-🌟 [Detroit Automation Academy](https://github.com/smit4786/DetroitAutomationAcademy)  
+🌟 [Detroit Automation Academy](https://detroitautomationacademy.org)  
 🚀 Project Highlights  
 💬 Contact: dbkrsmith@gmail.com
 
